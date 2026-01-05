@@ -1,0 +1,11 @@
+member_id,first_name,last_name,date_of_birth,gender,address,city,state,zip_code,phone,email,plan_type,enrollment_date,status
+PT10001,John,Smith,1985-03-15,M,123 Oak Street,Portland,OR,97201,503-555-0101,john.smith@email.com,PPO,2025-01-01,active
+PT10002,Sarah,Johnson,1990-07-22,F,456 Maple Ave,Seattle,WA,98101,206-555-0102,sarah.j@email.com,HMO,2024-06-15,active
+PT10003,Michael,Brown,1978-11-08,M,789 Pine Road,Eugene,OR,97401,541-555-0103,mbrown@email.com,PPO,2023-03-20,active
+PT10004,Emily,Davis,1995-02-14,F,321 Cedar Ln,Tacoma,WA,98401,253-555-0104,emily.davis@email.com,EPO,2025-01-01,active
+PT10005,David,Wilson,1982-09-30,M,654 Birch Dr,Salem,OR,97301,503-555-0105,d.wilson@email.com,HMO,2024-11-01,active
+PT10006,Jessica,Martinez,1988-05-18,F,987 Elm Court,Spokane,WA,99201,509-555-0106,jmartinez@email.com,PPO,2024-08-10,active
+PT10007,Robert,Anderson,1975-12-25,M,147 Spruce Way,Bend,OR,97701,541-555-0107,randerson@email.com,HMO,2023-01-01,active
+PT10008,Amanda,Taylor,1992-08-07,F,258 Willow St,Vancouver,WA,98660,360-555-0108,amanda.t@email.com,PPO,2025-02-01,active
+PT10009,Christopher,Thomas,2000-04-12,M,369 Ash Blvd,Medford,OR,97501,541-555-0109,cthomas@email.com,EPO,2025-01-15,active
+PT10010,Jennifer,Garcia,1987-10-03,F,741 Poplar Ave,Olympia,WA,98501,360-555-0110,jgarcia@email.com,HMO,2024-09-01,active

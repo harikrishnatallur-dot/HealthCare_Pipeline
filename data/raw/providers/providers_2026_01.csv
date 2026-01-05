@@ -1,0 +1,6 @@
+provider_id,npi,provider_name,specialty,provider_type,address,city,state,zip_code,phone,email,network_status,credential_date
+PR5001,1234567890,City Medical Center,Internal Medicine,Hospital,500 Medical Plaza,Portland,OR,97205,503-555-1001,contact@citymedical.org,in-network,2020-01-15
+PR5002,2345678901,Dr. Lisa Chen,Psychiatry,Individual,1200 Mental Health Blvd,Seattle,WA,98104,206-555-1002,lchen@mentalhealth.com,in-network,2018-06-20
+PR5003,3456789012,Northwest Family Practice,Family Medicine,Group Practice,350 Family Care Dr,Eugene,OR,97402,541-555-1003,info@nwfamily.com,in-network,2019-03-10
+PR5004,4567890123,Advanced Imaging Center,Radiology,Diagnostic Center,800 Scan Street,Tacoma,WA,98402,253-555-1004,admin@advancedimaging.net,in-network,2021-09-05
+PR5005,5678901234,Dr. Robert Kumar,Preventive Medicine,Individual,225 Wellness Way,Salem,OR,97302,503-555-1005,rkumar@wellnesscare.com,in-network,2017-11-30
