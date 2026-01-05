@@ -1,4 +1,4 @@
-# Healthcare Spark ETL Pipeline
+# Healthcare Spark ETL Pipeline by Hari Krishna
 
 A production-grade PySpark ETL pipeline for processing healthcare claims, member, and provider data with comprehensive data quality checks and dimensional modeling.
 
